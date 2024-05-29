@@ -1,6 +1,8 @@
 # flutter_sample_japanese_language_support_for_the_application
 
-A new Flutter project.
+書籍「Flutter実践開発」の第４章のうち、「アプリの日本語化対応」の部分の内容です
+
+[Flutter実践開発 -iPhone／Android両対応アプリ開発のテクニック-](https://gihyo.jp/book/2024/978-4-297-13993-3)
 
 ## Getting Started
 
