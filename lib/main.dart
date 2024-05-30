@@ -21,6 +21,11 @@ class HomeScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    /// 以下のようにデフォルトロケールに固定値を設定するやり方もあるが、
+    /// これだと複数言語に対応することが出来ない...
+    // Intl.defaultLocale = 'ja';
+    /// なので以下の書き方が良い
+    Intl.defaultLocale = Localizations.localeOf(context).toString();
     return Scaffold(
       body: Center(
         child: Column(
