@@ -1,5 +1,5 @@
 {
-  "numOfSearchResults": "{count, plural, =0{検索結果はありません} other{検索結果は{count}件です}}",
+  "numOfSearchResults": "{count, plural, =0{There is no result} =1{1 result found} other{{count} results found}}",
   "@numOfSearchResults": {
     "description": "検索結果",
     "placeholders": {
