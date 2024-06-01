@@ -35,7 +35,7 @@ class HomeScreen extends StatelessWidget {
               DateFormat.yMEd().format(DateTime.now()),
             ),
             // Text(l10n.helloWorld),
-            Text(l10n.numOfSearchResults(1))
+            Text(l10n.numOfSearchResults(0))
           ],
         ),
       ),
