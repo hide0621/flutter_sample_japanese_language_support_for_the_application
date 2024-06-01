@@ -1,6 +1,6 @@
 {
-  "helloWorld": "こんにちは世界！",
-  "@helloWorld": {
-    "description": "お決まりの挨拶"
+  "numOfSearchResults": "検索結果は{count}件です。",
+  "@numOfSearchResults": {
+    "description": "検索結果"
   }
 }
