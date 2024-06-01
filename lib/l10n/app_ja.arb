@@ -1,6 +1,11 @@
 {
   "numOfSearchResults": "検索結果は{count}件です。",
   "@numOfSearchResults": {
-    "description": "検索結果"
+    "description": "検索結果",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
   }
 }
